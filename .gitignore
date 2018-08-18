@@ -1,0 +1,116 @@
+.settings
+.settings/*
+.classpath
+.project
+logs
+logs/*
+.idea
+.sass-cache
+lint-modify.js
+
+# Windows image file caches
+Thumb.db
+enthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# sass map
+*.css.map
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+#Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ======================
+# Operating System Files
+# ======================
+
+# OSX
+# ======================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# npm package
+node_modules
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+*.svn-base
+.svn
+.svn/wc.db
+
+./dist
+npm-debug.log
+
+# Local configuration folder and symbol database
+/.anjuta/
+/.anjuta_sym_db.db
+
+
+#  ====================================Linux.gitignore =======================================
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+#  ====================================Linux.gitignore =======================================
+
+
+#  ==================================== Java.gitignore =======================================
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#  ==================================== Java.gitignore =======================================
